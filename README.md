@@ -18,7 +18,7 @@
 
 ### School Projects
 - [Hospital Management System](Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming._
-- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): _A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features done in Python for SC1015: Introduction to Data Science and Artificial Intelligence._
+- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): _A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence._
 
 
 
@@ -43,8 +43,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichloslee)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/niclee1803)
 
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niclee1803@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichloslee)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/niclee1803)
