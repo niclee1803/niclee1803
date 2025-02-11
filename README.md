@@ -15,7 +15,9 @@
 ### Hackathons
 
 ### School Projects
-- [Hospital Management System](Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming module._
+- [Hospital Management System](Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming._
+- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): _A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features done in Python for SC1015: Introduction to Data Science and Artificial Intelligence._
+
 
 
 ## ⚙️ Technologies & Tools
