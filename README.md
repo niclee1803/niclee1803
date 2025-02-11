@@ -1,9 +1,9 @@
-# Hi there! 👋🏻 I'm Nichlos
+# Hi there! 👋🏻 I'm Nic
 
 ## 👨‍🎓 About Me
 
 🎓 **Year 2 Computer Engineering** @ NTU, Singapore  
-💻 **Aspiring Full-Stack Developer:** ReactJS + Django/NodeJS  
+💻 **Aspiring Full-Stack Developer:** ReactJS + Python/NodeJS  
 💕 Passionate about **Full-stack Development** and **Cybersecurity**  
 🌍 Languages: English (en), 中文 (zh)
 
