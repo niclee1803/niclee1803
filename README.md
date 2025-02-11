@@ -3,7 +3,7 @@
 ## 👨‍🎓 About Me
 
 🎓 **Year 2 Computer Engineering** @ NTU, Singapore  
-💻 **Full-Stack Web Developer:** ReactJS + Python/NodeJS  
+💻 **Aspiring Full-Stack Web Developer:** ReactJS + Python/NodeJS  
 💕 Passionate about **Full-stack Development**, **Web Development** and **Cybersecurity** 
 🌍 Languages: English (en), 中文 (zh)
 
