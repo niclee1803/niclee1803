@@ -11,8 +11,10 @@
 ## 🛠️ Projects
 
 ### Personal Projects
-
+- [Dino Rush Game](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): _A 2D platformer game where players collect gems to progress through levels and aim for faster clear times, built using Phaser, an open-source HTML5 game framework, and Tiled for level design._
+  
 ### Hackathons
+- [ExpeditionExpertBot on Telegram](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): _A Telegram bot designed to assist users in finding and booking flights. It provides real-time flight search functionality, retrieving flight information from a third-party API and presenting it in a user-friendly format on Telegram._
 
 ### School Projects
 - [Hospital Management System](Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming._
