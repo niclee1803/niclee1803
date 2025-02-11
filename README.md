@@ -15,7 +15,8 @@
 ### Hackathons
 
 ### School Projects
-- (Hospital Management System)[niclee1803/Hospital-Management-System-HMS]: _A command-line-interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming module_
+- [Hospital Management System](Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming module._
+
 
 ## ⚙️ Technologies & Tools
 
