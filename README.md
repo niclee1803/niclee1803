@@ -17,7 +17,7 @@
 - ✈️ [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): _A Telegram bot designed to assist users in finding and booking flights. It provides real-time flight search functionality, retrieving flight information from a third-party API and presenting it in a user-friendly format on Telegram. Won Honorable Mention award in Hackswift 2023._
 
 ### School Projects
-- 🏥 [Hospital Management System](github.com/niclee1803/Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming._
+- 🏥 [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): _A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming._
 - ❤️ [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): _A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence._
 
 
