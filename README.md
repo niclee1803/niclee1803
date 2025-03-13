@@ -13,6 +13,7 @@
 - 🦖 [Dino Rush](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): _A 2D platformer game where players collect gems to progress through levels and aim for faster clear times, built using Phaser, an open-source HTML5 game framework, and Tiled for level design._
 
 ### Hackathons
+- 🔎 [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Entension): _A chrome extension designed to help users verify fake news or AI-generated deepfakes, without needing to leave their current tab. Developed for NTU Techfest 2025._
 - ✈️ [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): _A Telegram bot designed to assist users in finding and booking flights. It provides real-time flight search functionality, retrieving flight information from a third-party API and presenting it in a user-friendly format on Telegram. Won Honorable Mention award in Hackswift 2024._
 
 ### School Projects
