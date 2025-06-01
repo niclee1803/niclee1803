@@ -1,13 +1,13 @@
 # Hi there! 👋🏻 I'm Nic
 
-## 👨‍🎓 About Me
+## About Me
 
 - **Year 2 Computer Engineering** @ NTU, Singapore  
 - Passionate about **Full-stack Development** and **Cybersecurity**  
 - Languages: English, 中文
 
 
-## 🛠️ Projects
+## Projects
 
 ### Personal Projects
 - [Dino Rush](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): _A 2D platformer game where players collect gems to progress through levels and aim for faster clear times, built using Phaser, an open-source HTML5 game framework, and Tiled for level design._
@@ -22,7 +22,7 @@
 
 
 
-## ⚙️ Technologies & Tools
+## Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## 📩 Contact Me
+## Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niclee1803@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichloslee)
