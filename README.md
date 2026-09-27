@@ -12,7 +12,7 @@
 ### Personal Projects
 - [Expense Tracker Telegram Bot](https://github.com/niclee1803/expense_tracker_bot): A Telegram bot used to track monthly expenditure. Comes with data visualisation for different categories.
 - [Dino Rush](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): 2D platformer game that runs on browser. Built using Phaser and Tiled.
-- [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension): A chrome extension to fact check text claims and detect deepfake images directly from the browser by just right clicking.
+- [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension): A chrome extension to fact check text claims and detect deepfake images within the same tab.
 - [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): A Telegram bot designed to assist users in searching for flights from Kiwi.com API
 
 ### School Projects
