@@ -16,6 +16,7 @@
 - [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): A Telegram bot designed to assist users in searching for flights from Kiwi.com API
 
 ### School Projects
+- [SportsBuddies Mobile App](): Mobile app built using React Native frontend and FastAPI backend for SC2006: Sofrware Engineering
 - [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
 - [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
 
