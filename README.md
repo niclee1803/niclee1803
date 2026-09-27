@@ -10,13 +10,13 @@
 ## Projects
 
 ### Personal Projects
+- [Expense Tracker Telegram Bot](https://github.com/niclee1803/expense_tracker_bot): A Telegram bot used to track monthly expenditure. Comes with data visualisation for different categories.
 - [Dino Rush](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): 2D platformer game that runs on browser. Built using Phaser and Tiled.
-- [Expense Tracker Telegram Bot](): A Telegram bot used to track monthly expenditure. Comes with data visualisation for different categories.
 - [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension): A chrome extension to fact check text claims and detect deepfake images directly from the browser by just right clicking.
 - [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): A Telegram bot designed to assist users in searching for flights from Kiwi.com API
 
 ### School Projects
-- [SportsBuddies Mobile App](): Mobile app built using React Native frontend and FastAPI backend for SC2006: Sofrware Engineering
+- [SportsBuddies Mobile App](https://github.com/niclee1803/SportsBuddies): Mobile app built using React Native frontend and FastAPI backend for SC2006: Sofrware Engineering
 - [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
 - [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
 
