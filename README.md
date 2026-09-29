@@ -23,6 +23,7 @@
 ## Currently working on:
 - OSCP
 - FYP: Design and Development of a Secure Linux-Based Examination Platform for Controlled Assessment Environments
+- MDP: Program a robot car to map arenas, avoid obstacles, and complete image recognition tasks using android tablet, RPi, and STM32 microcontroller
 
 ## Technologies & Tools
 
