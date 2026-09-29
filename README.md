@@ -10,15 +10,15 @@
 ## Projects
 
 ### Personal Projects
-- [Expense Tracker Telegram Bot](https://github.com/niclee1803/expense_tracker_bot): A Telegram bot used to track and visualise monthly expenditure. 
+- [Expense Tracker Telegram Bot](https://github.com/niclee1803/expense_tracker_bot): Telegram bot used to track and visualise monthly expenditure. 
 - [Dino Rush](https://github.com/TAN-AIK-CHONG/Dino-Rush-Game): 2D platformer game that runs on browser. Built using Phaser and Tiled.
-- [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension): A Chrome extension to fact check text claims and detect deepfake images from the right click menu.
-- [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): A Telegram bot designed to assist users in searching for cheapest flights from Kiwi.com API
+- [VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension): Chrome extension to fact check text claims and detect deepfake images from the right click menu.
+- [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): Telegram bot designed to assist users in searching for cheapest flights from Kiwi.com API
 
 ### School Projects
 - [SportsBuddies Mobile App](https://github.com/niclee1803/SportsBuddies): Fullstack mobile app built using React Native and FastAPI for users to discover and organise sports events. Built for SC2006: Software Engineering.  
-- [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
-- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
+- [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): Command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
+- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): Machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
 
 ## Currently working on:
 - OSCP
