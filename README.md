@@ -22,7 +22,7 @@
 
 ## Currently working on:
 - OSCP
-- FYP: designing a custom Linux lockdown exam platform to secure digital examinations
+- FYP: Design and Development of a Secure Linux-Based Examination Platform for Controlled Assessment Environments
 
 ## Technologies & Tools
 
