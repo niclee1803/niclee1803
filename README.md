@@ -16,9 +16,9 @@
 - [ExpeditionExpertBot](https://github.com/TAN-AIK-CHONG/Travel-Planner-Bot): Telegram bot designed to assist users in searching for cheapest flights from Kiwi.com API
 
 ### School Projects
-- [SportsBuddies Mobile App](https://github.com/niclee1803/SportsBuddies): Fullstack mobile app built using React Native and FastAPI for users to discover and organise sports events. Built for SC2006: Software Engineering.  
+- [SportsBuddies Mobile App](https://github.com/niclee1803/SportsBuddies): Fullstack mobile app built using React Native and FastAPI for users to discover and organise sports events. Built as a project for SC2006: Software Engineering.  
 - [Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS): Command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
-- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): Machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
+- [Heart Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML): Machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features. Used Numpy, Pandas, Matplotlib and Scikit-learn. Built as a final project for SC1015: Introduction to Data Science and Artificial Intelligence.
 
 ## Currently working on:
 - OSCP
